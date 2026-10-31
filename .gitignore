@@ -1,0 +1,10 @@
+# 模型权重体积过大（约 3 GB），不入库；使用时从题目包放置到 progen2/
+progen2/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 打包产物与运行日志
+submission.zip
+*.log
